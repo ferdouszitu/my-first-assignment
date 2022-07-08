@@ -9,7 +9,6 @@ body {
     transform: translate(-50%, -50%);
     color: white;
     text-align: center;
-    font-size: 35px;
     line-height: 30px;
 }
 
@@ -19,10 +18,58 @@ body {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    color: white;
+    background-image: linear-gradient(red, tomato);
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 10px;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.donate-today {
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px 300px;
+    line-height: 30px;
+}
+
+.donate-bd {
     font-size: 20px;
+    color: grey;
+}
+
+
+.flexible-container {
+    font-size: 20px;
+    color: dimgrey;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    justify-content: space-between;
+}
+
+.orange-box {
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: lightpink;
+    color: orangered;
+}
+
+.taka {
+    text-align: center;
+    color: grey;
+    border-bottom: 1px solid grey;
+    margin-left: 25%;
+    margin-right: 30%;
+
+}
+
+.below-donate {
+    margin-left: 40%;
+    margin-right: 40%;
 }
