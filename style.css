@@ -73,3 +73,39 @@ h1 {
     margin-left: 40%;
     margin-right: 40%;
 }
+
+.box-item {
+
+
+    padding: 5px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.flex-item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#box1 {
+    background-color: lightcyan;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#box2 {
+    background-color: lightpink;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#box3 {
+    background-color: lightgoldenrodyellow;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
