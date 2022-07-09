@@ -94,6 +94,7 @@ h1 {
     padding: 15px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 #box2 {
@@ -101,6 +102,7 @@ h1 {
     padding: 15px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px
 }
 
 #box3 {
@@ -108,4 +110,51 @@ h1 {
     padding: 15px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px
+}
+
+.big-image {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.below-heading {
+    text-align: center;
+    color: rgb(10, 121, 165);
+}
+
+.button {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 25%;
+    background-color: lemonchiffon;
+    border-radius: 5px;
+    border: none;
+    padding: 60px 100px 60px 100px;
+    display: inline-block;
+
+}
+
+.email {
+    background-color: lightgray;
+    border: 0;
+    border-radius: 5px;
+}
+
+.subscribe {
+    background-color: orangered;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: lightseagreen;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+
 }
