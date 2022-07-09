@@ -31,6 +31,7 @@ h1 {
 
 .donate-today {
     margin-top: 50px;
+    margin-bottom: 20px;
     text-align: center;
     padding: 10px 300px;
     line-height: 30px;
@@ -52,12 +53,17 @@ h1 {
 }
 
 .orange-box {
-    border: 1px solid red;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    background-color: lightpink;
-    color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 100px;
+    border: 2px solid red;
+    color: red;
+    border-radius: 5px;
+    margin-top: 0;
+    background-color: papayawhip;
+
 }
 
 .taka {
